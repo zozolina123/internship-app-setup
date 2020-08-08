@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Visual studio code
+
+Highly recommend installing eslint plugin for auto fixing linting errors on file save
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -26,6 +31,10 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `yarn lint`
+
+Runs eslint on your code and tries to fix the errors
 
 ### `yarn eject`
 
